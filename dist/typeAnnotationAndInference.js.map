@@ -1,0 +1,1 @@
+{"version":3,"file":"typeAnnotationAndInference.js","sourceRoot":"","sources":["../src/typeAnnotationAndInference.ts"],"names":[],"mappings":";;AAAA,IAAI,KAAK,GAAG,SAAS,CAAC;AAEtB,IAAI,GAAG,GAAG,IAAI,CAAC,MAAM,EAAE,GAAG,IAAI,CAAC,CAAC,CAAC,EAAE,CAAC,CAAC,CAAC,GAAG,CAAC;AAE1C,IAAI,WAAW,GAAG,gBAAgB,CAAC;AAEnC,IAAI,cAAc,GAAW,UAAU,CAAC;AAExC,IAAI,IAAI,GAAY,IAAI,CAAC"}
